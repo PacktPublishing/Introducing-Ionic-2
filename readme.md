@@ -1,30 +1,24 @@
-﻿# Unreal Engine 4.x Projects [Video]
-This is the code repository for [Unreal Engine 4.x Projects [Video]](https://www.packtpub.com/game-development/unreal-engine-4x-projects-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
-##  If you want to do more with Unreal Engine 4 and dive deep into the amazing capabilities that it has to offer, then this video is the right choice for you. With the help of this video, you will learn how to create 4 different Unreal Engine 4 games. 
-
-The design complexity of each game will increase gradually so as to give you a complete overview of Unreal Engine 4 and its amazing features. You will learn to implement advanced shading and animation techniques, create stunning graphics, leverage the Unreal rendering engine and optimize it to get the best out of it. 
-
-The experiences of creating a variety of games from scratch will make you get a clear grip on Unreal Engine 4 and will help you become a pro game developer with Unreal Engine 4.
+﻿# Introducing Ionic 2 [Video]
+This is the code repository for [Introducing Ionic 2 [Video]]](https://www.packtpub.com/web-development/introducing-ionic-2-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+##  This course delivers an (early) introduction to Ionic 2, and demonstrates all of the core elements of the framework by developing a single project throughout the runtime. The course dives into starting up an Ionic 2 project, using the menu application type as the template for the project. It introduces the component-based structure of Ionic 2 applications, develops navigation functionality and introduces TypeScript for development. Moving in sequence from there the course then demonstrates how to leverage Ionic for views and Angular 2 for the logic, utilizing bult-in Angular2 and Ionic2 directives to display content and implementing 2 way data binding. Services, observables and dependency injection are treated, and the second half of the course starts to dive into deeper, advanced topics creating custom components, binding attributes and listening to events via directives. Working with pipes for data filtering and rendering, using built-in Ionic 2 components, and implementing effective data persistence using the native interface.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
-<UL>The Foundation Of Unreal Engine 4
-<LI>Beginner To Advanced Visual Scripting Via Unreal Blueprints
-<LI>Network Based Multiplayer Game Design
-<LI>Designing For Virtual Reality
-<LI>How To Modify Unreal Game Assets To Fit Your Design
-<LI>Unreal Material Creation, Giving Your Game That Extra Edge
-<LI>Advanced Problem Solving, How To Think Unrea
-<LI>How To Quickly Implement Changes To Your Game</LI></UL></DIV>
+<UL>
+<LI>
+<LI>
+<LI>
+<LI>
+<LI></LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
+JavaScript web developers are the broad primary audience. More specifically, JavaScript developers looking to develop mobile applications in JavaScript with Ionic. Potentially even native mobile application developers who are capable of building iOS apps but are interested in leveraging Ionic to build them in JavaScript. The backbone of Ionic 2 is Angular 2, so this will also attract the attention of Angular users.
 
-The ideal target audience for this video would be game developers with basic knowledge of object oriented programming. They should have some previous working experience with Unreal Engine 4.
 
 ## Related Products
-* [Mastering Unreal Engine 4.x Game Development [Video]](https://www.packtpub.com/game-development/mastering-unreal-engine-4x-game-development-video)
+* [Building Mobile Apps with Ionic 4 [Video]](https://www.packtpub.com/application-development/building-mobile-apps-ionic-4-video)
 
-* [Unreal Engine 4 Scripting with C++ [Video]](https://www.packtpub.com/game-development/unreal-engine-4-scripting-c-video)
+* [Ionic 4 - Build iOS, Android and Web Apps with Ionic and Angular [Video]](https://www.packtpub.com/application-development/ionic-4-build-ios-android-and-web-apps-ionic-and-angular-video)
 
-* [Advanced Coding with Unreal Engine 4 [Video]](https://www.packtpub.com/game-development/advanced-coding-unreal-engine-4-video)
+* [Ionic 2 Solutions [Video]](https://www.packtpub.com/web-development/ionic-2-solutions-video)
 
